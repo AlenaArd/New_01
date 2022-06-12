@@ -1,1 +1,1 @@
-pyton_DZ
+Kurs_7_dataAnalysisAlg
